@@ -1,2 +1,3 @@
 # Javascript-30-day-challange
-A code repo for javascript 30 Day challenge.
+A code repo for Javascript 30 Day challenge.
+
